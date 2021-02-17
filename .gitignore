@@ -1,0 +1,10 @@
+# hide email information
+lists
+queue
+spool
+
+# whitelist sct emails
+# only 2...
+spool/1537760909.0264773+302fa788bc1a7e49af1c0e590ba5dc15b38507bf.pck
+spool/1537760909.4777262+cca4c38ace24d50d6a676564a351372771614691.pck
+
